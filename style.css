@@ -1,0 +1,14 @@
+#tabela{
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
